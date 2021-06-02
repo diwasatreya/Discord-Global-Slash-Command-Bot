@@ -1,0 +1,22 @@
+{
+  "name": "Slash-Command-Tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "g-i-s": "^2.1.6",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "music-info": "^1.1.8",
+    "node-fetch": "^2.6.1",
+    "util": "^0.12.3"
+  }
+}
