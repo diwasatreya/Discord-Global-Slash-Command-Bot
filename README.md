@@ -24,7 +24,7 @@ A discord slash command made using javascript easy to setup and control
 - Go secrets[Environment Variable] and add TOKEN and paste token there if you are in repl.it or put  add token in .env file
 
 - Run in repl.it
-- [Click Here](https://replit.com/@GamingDiwas/Discord-Bot-Updated#README.md)
+- [Click Here](https://replit.com/@GamingDiwas/Discord-Global-Slash-Command-Bot)
 
 
 ### Join My Server
