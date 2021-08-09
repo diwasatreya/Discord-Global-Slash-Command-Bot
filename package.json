@@ -1,5 +1,5 @@
 {
-  "name": "Slash-Command-Tester",
+  "name": "Slash-Command",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Supreme",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "discord.js": "^12.5.1",
