@@ -3,7 +3,6 @@ A discord slash command made using javascript easy to setup and control
 
 # Suscribe to KP 18 Gamer
 - [Subscribe](https://www.youtube.com/channel/UCo2iuPS4FZ8V6H_ct2F8-2A/featured)
-- 
 ## This bot was made Romeo#0700, do not remove credits or you will have copyright issues.
 ### Make sure to join The servers below:
 - [The Capital Club](https://discord.gg/gU7XAxTpX5)
