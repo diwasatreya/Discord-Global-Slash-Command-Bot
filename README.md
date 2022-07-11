@@ -28,3 +28,7 @@ A discord slash command made using javascript easy to setup and control
 
 ### Join My Server
 
+
+ <a href="https://discord.gg/admin"><img src="http://invidget.switchblade.xyz/admin"/></a>
+
+
